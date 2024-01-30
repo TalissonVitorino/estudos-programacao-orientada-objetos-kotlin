@@ -4,21 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="331cb387-9883-4a67-a937-db4cc5278267" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Account.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polimorphism/Employee.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polimorphism/Polimorphism.kt" afterDir="false" />
+    <list default="true" id="331cb387-9883-4a67-a937-db4cc5278267" name="Changes" comment="Exercício de programação orientada a objetos em kotlin.">
+      <change afterPath="$PROJECT_DIR$/src/exceptions/IvalidValueException.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptions/ThrowException.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polimorphism/Vehicle.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,8 +18,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Class" />
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -53,21 +43,24 @@
     "Kotlin.EmployeeKt.executor": "Run",
     "Kotlin.MainKt.executor": "Run",
     "Kotlin.PolimorphismKt.executor": "Run",
+    "Kotlin.ThrowExceptionKt.executor": "Run",
+    "Kotlin.VehicleKt.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\talis\Dev\classes\src\exceptions" />
       <recent name="C:\Users\talis\Dev\classes\src\polimorphism" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.EmployeeKt">
+  <component name="RunManager" selected="Kotlin.ThrowExceptionKt">
     <configuration name="EmployeeKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="polimorphism.EmployeeKt" />
       <module name="classes" />
@@ -89,8 +82,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ThrowExceptionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exceptions.ThrowExceptionKt" />
+      <module name="classes" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VehicleKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="polimorphism.VehicleKt" />
+      <module name="classes" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ThrowExceptionKt" />
+        <item itemvalue="Kotlin.VehicleKt" />
         <item itemvalue="Kotlin.EmployeeKt" />
         <item itemvalue="Kotlin.PolimorphismKt" />
         <item itemvalue="Kotlin.MainKt" />
@@ -114,6 +123,19 @@
       <option name="presentableId" value="Default" />
       <updated>1705586942791</updated>
     </task>
+    <task id="LOCAL-00001" summary="Exercício de programação orientada a objetos em kotlin.">
+      <option name="closed" value="true" />
+      <created>1706534940838</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1706534940838</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Exercício de programação orientada a objetos em kotlin." />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercício de programação orientada a objetos em kotlin." />
   </component>
 </project>
