@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="331cb387-9883-4a67-a937-db4cc5278267" name="Changes" comment="Exercício de programação orientada a objetos em kotlin.">
-      <change afterPath="$PROJECT_DIR$/src/exceptions/IvalidValueException.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exceptions/ThrowException.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polimorphism/Vehicle.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polimorphism/InsufficientFundsExceptin.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exceptions/ThrowException.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/exceptions/ThrowException.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,8 +130,27 @@
       <option name="project" value="LOCAL" />
       <updated>1706534940838</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Exercício de programação orientada a objetos em kotlin.">
+      <option name="closed" value="true" />
+      <created>1706625820760</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1706625820760</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Exercício de programação orientada a objetos em kotlin." />
