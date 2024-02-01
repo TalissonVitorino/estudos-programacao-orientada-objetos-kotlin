@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="331cb387-9883-4a67-a937-db4cc5278267" name="Changes" comment="Exercício de programação orientada a objetos em kotlin.">
-      <change afterPath="$PROJECT_DIR$/src/polimorphism/InsufficientFundsExceptin.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptions/KotlinException.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptions/StudentGrades.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exceptions/ThrowException.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/exceptions/ThrowException.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin File" />
         <option value="Kotlin Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -42,6 +42,7 @@
     "Kotlin.EmployeeKt.executor": "Run",
     "Kotlin.MainKt.executor": "Run",
     "Kotlin.PolimorphismKt.executor": "Run",
+    "Kotlin.StudentGradesKt.executor": "Run",
     "Kotlin.ThrowExceptionKt.executor": "Run",
     "Kotlin.VehicleKt.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -59,7 +60,7 @@
       <recent name="C:\Users\talis\Dev\classes\src\polimorphism" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.ThrowExceptionKt">
+  <component name="RunManager" selected="Kotlin.StudentGradesKt">
     <configuration name="EmployeeKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="polimorphism.EmployeeKt" />
       <module name="classes" />
@@ -67,15 +68,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MainKt" />
+    <configuration name="PolimorphismKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="polimorphism.PolimorphismKt" />
       <module name="classes" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PolimorphismKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="polimorphism.PolimorphismKt" />
+    <configuration name="StudentGradesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exceptions.StudentGradesKt" />
       <module name="classes" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -97,11 +98,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.StudentGradesKt" />
         <item itemvalue="Kotlin.ThrowExceptionKt" />
         <item itemvalue="Kotlin.VehicleKt" />
         <item itemvalue="Kotlin.EmployeeKt" />
         <item itemvalue="Kotlin.PolimorphismKt" />
-        <item itemvalue="Kotlin.MainKt" />
       </list>
     </recent_temporary>
   </component>
@@ -138,7 +139,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706625820760</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Exercício de programação orientada a objetos em kotlin.">
+      <option name="closed" value="true" />
+      <created>1706639273061</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1706639273061</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
