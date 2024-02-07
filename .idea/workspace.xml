@@ -5,9 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="331cb387-9883-4a67-a937-db4cc5278267" name="Changes" comment="Exercício de programação orientada a objetos em kotlin.">
-      <change afterPath="$PROJECT_DIR$/src/exceptions/KotlinException.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exceptions/StudentGrades.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptions/ExceptionStrategies.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambda/Ex01.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambda/Ex02.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambda/Ex03.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambda/Ex04.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambda/Ex05.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Account.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/polimorphism/Account.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +46,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Kotlin.EmployeeKt.executor": "Run",
+    "Kotlin.Ex01Kt.executor": "Run",
+    "Kotlin.Ex03Kt.executor": "Run",
+    "Kotlin.Ex05Kt.executor": "Run",
+    "Kotlin.ExceptionStrategiesKt.executor": "Run",
     "Kotlin.MainKt.executor": "Run",
     "Kotlin.PolimorphismKt.executor": "Run",
     "Kotlin.StudentGradesKt.executor": "Run",
@@ -59,17 +69,34 @@
       <recent name="C:\Users\talis\Dev\classes\src\exceptions" />
       <recent name="C:\Users\talis\Dev\classes\src\polimorphism" />
     </key>
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="polimorphism" />
+    </key>
   </component>
-  <component name="RunManager" selected="Kotlin.StudentGradesKt">
-    <configuration name="EmployeeKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="polimorphism.EmployeeKt" />
+  <component name="RunManager" selected="Kotlin.Ex03Kt">
+    <configuration name="Ex01Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambda.Ex01Kt" />
       <module name="classes" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PolimorphismKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="polimorphism.PolimorphismKt" />
+    <configuration name="Ex03Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambda.Ex03Kt" />
+      <module name="classes" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex05Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambda.Ex05Kt" />
+      <module name="classes" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExceptionStrategiesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exceptions.ExceptionStrategiesKt" />
       <module name="classes" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -82,27 +109,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThrowExceptionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exceptions.ThrowExceptionKt" />
-      <module name="classes" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="VehicleKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="polimorphism.VehicleKt" />
-      <module name="classes" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Ex03Kt" />
+        <item itemvalue="Kotlin.Ex05Kt" />
+        <item itemvalue="Kotlin.Ex01Kt" />
+        <item itemvalue="Kotlin.ExceptionStrategiesKt" />
         <item itemvalue="Kotlin.StudentGradesKt" />
-        <item itemvalue="Kotlin.ThrowExceptionKt" />
-        <item itemvalue="Kotlin.VehicleKt" />
-        <item itemvalue="Kotlin.EmployeeKt" />
-        <item itemvalue="Kotlin.PolimorphismKt" />
       </list>
     </recent_temporary>
   </component>
@@ -147,7 +160,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706639273061</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Exercício de programação orientada a objetos em kotlin.">
+      <option name="closed" value="true" />
+      <created>1706818674068</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1706818674068</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
