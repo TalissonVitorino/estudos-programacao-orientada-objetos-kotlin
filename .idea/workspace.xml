@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="331cb387-9883-4a67-a937-db4cc5278267" name="Changes" comment="Exercício de programação orientada a objetos em kotlin.">
-      <change afterPath="$PROJECT_DIR$/src/exceptions/ExceptionStrategies.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambda/Ex01.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambda/Ex02.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambda/Ex03.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambda/Ex04.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambda/Ex05.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collections/ArrayVarargs.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Account.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/polimorphism/Account.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +38,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Kotlin.ArrayVarargsKt.executor": "Run",
     "Kotlin.EmployeeKt.executor": "Run",
     "Kotlin.Ex01Kt.executor": "Run",
     "Kotlin.Ex03Kt.executor": "Run",
@@ -73,7 +67,14 @@
       <recent name="polimorphism" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.Ex03Kt">
+  <component name="RunManager" selected="Kotlin.ArrayVarargsKt">
+    <configuration name="ArrayVarargsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collections.ArrayVarargsKt" />
+      <module name="classes" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Ex01Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lambda.Ex01Kt" />
       <module name="classes" />
@@ -102,20 +103,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentGradesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exceptions.StudentGradesKt" />
-      <module name="classes" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ArrayVarargsKt" />
         <item itemvalue="Kotlin.Ex03Kt" />
         <item itemvalue="Kotlin.Ex05Kt" />
         <item itemvalue="Kotlin.Ex01Kt" />
         <item itemvalue="Kotlin.ExceptionStrategiesKt" />
-        <item itemvalue="Kotlin.StudentGradesKt" />
       </list>
     </recent_temporary>
   </component>
