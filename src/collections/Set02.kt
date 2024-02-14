@@ -5,7 +5,7 @@ import java.util.Objects
 
 fun main() {
     val dogs = sortedSetOf(
-        Comparator.comparing{dog: Dog -> dog.name },
+        Comparator.comparing { dog: Dog -> dog.name },
         Dog("D3"),
         Dog("D2"),
         Dog("D5"),
@@ -14,10 +14,9 @@ fun main() {
     )
     println(dogs)
 
-
 }
 
-class Dog( val name: String) {
+class Dog(val name: String) {
     override fun toString() = "Dog(name=$name, hashCode=${hashCode()})"
 
     override fun hashCode(): Int {
