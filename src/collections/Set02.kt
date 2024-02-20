@@ -5,7 +5,7 @@ import java.util.Objects
 
 fun main() {
     val dogs = sortedSetOf(
-        Comparator.comparing { dog: Dog -> dog.name },
+        Comparator.comparing {d: Dog -> d.name }.reversed(),
         Dog("D3"),
         Dog("D2"),
         Dog("D5"),
