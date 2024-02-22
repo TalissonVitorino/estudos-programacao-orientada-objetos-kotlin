@@ -4,33 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="331cb387-9883-4a67-a937-db4cc5278267" name="Changes" comment="Exercício de programação orientada a objetos em kotlin.">
-      <change afterPath="$PROJECT_DIR$/src/collectionlambda/EX01.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collectionlambda/Ex02.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collectionlambda/Ex03.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collectionlambda/Ex04.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collectionlambda/Ex05.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collectionlambda/Ex07.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collectionlambda/Ex08.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collectionlambda/Ex09.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collectionlambda/Ex10.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collectionlambda/Ex12.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collectionlambda/Ex13.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collectionlambda/Ex14.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collectionlambda/Ex15.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collectionlambda/Ex16.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collectionlambda/Ex17.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collectionlambda/Ex18.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collectionlambda/ex11.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collectionlambda/herois.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/map/Ex01.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/map/Ex03.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/map/Ex04.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/map/Ex05.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/map/Ex06.kt" afterDir="false" />
+    <list default="true" id="331cb387-9883-4a67-a937-db4cc5278267" name="Changes" comment="Exercício de programação em kotlin.">
+      <change afterPath="$PROJECT_DIR$/src/enums/Ex01.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enums/Ex02.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enums/Ex03.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/collections/Set02.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/collections/Set02.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/convertColletions/Ex02.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/convertColletions/Ex02.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,51 +43,51 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Kotlin.ArrayVarargsKt.executor": "Run",
-    "Kotlin.EmployeeKt.executor": "Run",
-    "Kotlin.Ex01Kt (1).executor": "Run",
-    "Kotlin.Ex01Kt.executor": "Run",
-    "Kotlin.Ex02Kt.executor": "Run",
-    "Kotlin.Ex03Kt (1).executor": "Run",
-    "Kotlin.Ex03Kt.executor": "Run",
-    "Kotlin.Ex04Kt (1).executor": "Run",
-    "Kotlin.Ex04Kt.executor": "Run",
-    "Kotlin.Ex05Kt (1).executor": "Run",
-    "Kotlin.Ex05Kt.executor": "Run",
-    "Kotlin.Ex06Kt.executor": "Run",
-    "Kotlin.Ex07Kt.executor": "Run",
-    "Kotlin.Ex08Kt.executor": "Run",
-    "Kotlin.Ex09Kt.executor": "Run",
-    "Kotlin.Ex10Kt.executor": "Run",
-    "Kotlin.Ex11Kt.executor": "Run",
-    "Kotlin.Ex12Kt.executor": "Run",
-    "Kotlin.Ex13Kt.executor": "Run",
-    "Kotlin.Ex14Kt.executor": "Run",
-    "Kotlin.Ex15Kt.executor": "Run",
-    "Kotlin.Ex16Kt.executor": "Run",
-    "Kotlin.Ex17Kt.executor": "Run",
-    "Kotlin.Ex18Kt.executor": "Run",
-    "Kotlin.ExceptionStrategiesKt.executor": "Run",
-    "Kotlin.ListKt.executor": "Run",
-    "Kotlin.MainKt.executor": "Run",
-    "Kotlin.PolimorphismKt.executor": "Run",
-    "Kotlin.Set02Kt.executor": "Run",
-    "Kotlin.Set03Kt.executor": "Run",
-    "Kotlin.SetKt.executor": "Run",
-    "Kotlin.StudentGradesKt.executor": "Run",
-    "Kotlin.ThrowExceptionKt.executor": "Run",
-    "Kotlin.VehicleKt.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Kotlin.ArrayVarargsKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.EmployeeKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Ex01Kt (1).executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Ex01Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Ex02Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Ex03Kt (1).executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Ex03Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Ex04Kt (1).executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Ex04Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Ex05Kt (1).executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Ex05Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Ex06Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Ex07Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Ex08Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Ex09Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Ex10Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Ex11Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Ex12Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Ex13Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Ex14Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Ex15Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Ex16Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Ex17Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Ex18Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.ExceptionStrategiesKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.ListKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.MainKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.PolimorphismKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Set02Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Set03Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.SetKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.StudentGradesKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.ThrowExceptionKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.VehicleKt.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\talis\Dev\classes\src\exceptions" />
@@ -122,16 +100,16 @@
       <recent name="polimorphism" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.Ex18Kt">
-    <configuration name="Ex14Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collectionlambda.Ex14Kt" />
+  <component name="RunManager" selected="Kotlin.Ex01Kt">
+    <configuration name="Ex01Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="enums.Ex01Kt" />
       <module name="classes" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex15Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collectionlambda.Ex15Kt" />
+    <configuration name="Ex02Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="enums.Ex02Kt" />
       <module name="classes" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -160,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Ex01Kt" />
+        <item itemvalue="Kotlin.Ex02Kt" />
         <item itemvalue="Kotlin.Ex18Kt" />
         <item itemvalue="Kotlin.Ex17Kt" />
         <item itemvalue="Kotlin.Ex16Kt" />
-        <item itemvalue="Kotlin.Ex15Kt" />
-        <item itemvalue="Kotlin.Ex14Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -249,7 +227,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707932931887</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Exercício de programação em kotlin.">
+      <option name="closed" value="true" />
+      <created>1708450143853</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1708450143853</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -265,6 +251,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Exercício de programação orientada a objetos em kotlin." />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercício de programação orientada a objetos em kotlin." />
+    <MESSAGE value="Exercício de programação em kotlin." />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercício de programação em kotlin." />
   </component>
 </project>
