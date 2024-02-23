@@ -48,11 +48,12 @@ enum class Month(val numberOfMonth: Int) {
             ?: JANUARY
     }
 
-    fun getTotalDays(): Int{
-        return when (this){
-            JANUARY, MARCH,APRIL,
-            MAY,JUNE, JULY, AUGUST, SEPTEMBER,
-            OCTOBER, NOVEMBER,DECEMBER -> 31
+    fun getTotalDays(): Int {
+        return when (this) {
+            JANUARY, MARCH, APRIL,
+            MAY, JUNE, JULY, AUGUST, SEPTEMBER,
+            OCTOBER, NOVEMBER, DECEMBER -> 31
+
             FEBRUARY -> 28
 
         }

@@ -1,5 +1,3 @@
-import polimorphism.Account
-
 fun main() {
     val a1 = Account("1254-5", "marcio")
     val a2 = Account("1565-2", "pedro")
