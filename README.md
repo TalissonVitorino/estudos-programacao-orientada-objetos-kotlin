@@ -1,45 +1,25 @@
-# 📘 Curso de Kotlin – Udemy
+# Estudos — POO com Kotlin
 
-Este repositório contém meus estudos, anotações e exemplos práticos do curso de **Kotlin** realizado na plataforma **Udemy**.
+Anotações e exemplos práticos do curso de **Kotlin** (Udemy). Foco em fundamentos e Programação Orientada a Objetos.
 
-## 🚀 Tecnologias
-- Kotlin
-- IntelliJ IDEA
-- JDK
+---
 
-## 📚 Conteúdo Estudado
+## Conteúdo
 
-### 🔹 Fundamentos
-- Sintaxe básica
-- `val` e `var`
-- Tipos primitivos
-- Null Safety
+| Módulo | Tópicos |
+|---|---|
+| Fundamentos | Sintaxe, `val`/`var`, tipos, null safety |
+| Controle de Fluxo | `if`, `when`, `for`, `while` |
+| Funções | Retorno, `Unit`, parâmetros nomeados |
+| POO | Classes, construtores, herança, interfaces |
+| Coleções | List, Map, Set, operações funcionais |
 
-### 🔹 Controle de Fluxo
-- if / else
-- when
-- for / while
+---
 
-### 🔹 Funções
-- Funções com retorno
-- Funções sem retorno (`Unit`)
-- Parâmetros nomeados
+## Stack
 
-### 🔹 Programação Orientada a Objetos
-- Classes e objetos
-- Construtores
-- Encapsulamento
-
-### 🔹 Coleções e Lambdas
-- List e MutableList
-- filter, map, forEach
-- Expressões lambda
-
-## 🧠 Exemplo de Código
-
-```kotlin
-class Pessoa(val nome: String, var idade: Int) {
-    fun apresentar() {
-        println("Meu nome é $nome e tenho $idade anos")
-    }
-}
+| Ferramenta | Uso |
+|---|---|
+| Kotlin | Linguagem |
+| IntelliJ IDEA | IDE |
+| JDK 11+ | Runtime |
